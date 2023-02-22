@@ -822,6 +822,10 @@ h4 {
   width:533px;
   height: 533px;
 }
+.navbar-header img{
+  height:40px;
+  width: 250px;
+}
 .btn-atomic-tangerine {
   background: #933110;
   color: #ffffff !important;
