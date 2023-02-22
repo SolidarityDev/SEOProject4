@@ -818,7 +818,10 @@ h4 {
   color: #ffffff !important;
   font-size: 22px;
 }
-
+.width-logo{
+  width:533px;
+  height: 533px;
+}
 .btn-atomic-tangerine {
   background: #933110;
   color: #ffffff !important;
