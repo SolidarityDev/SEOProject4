@@ -450,7 +450,7 @@ nav .caret {
   font-family: "Courier New", Courier, monospace;
 }
 .contact-sentence {
-  color: #ffffff;
+  color: white;
   font-size: 30px;
 }
 .mg-lg {
@@ -867,6 +867,7 @@ h4 {
 
 .bg-banniere {
   background-image: url("img/agence-la-panthere.webp");
+  filter: brightness(1.10);
 }
 
 .bg-presentation {
